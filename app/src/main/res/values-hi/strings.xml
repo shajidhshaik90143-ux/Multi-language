@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">बहुभाषा समर्थन ऐप</string>
+
+    <string name="default_message">
+आपने बटन दबाया
+</string>
+
+    <string name="clicked_message">
+आपने बटन दबाया
+</string>
+
+    <string name="click_me">
+क्लिक करें
+</string>
+
+</resources>

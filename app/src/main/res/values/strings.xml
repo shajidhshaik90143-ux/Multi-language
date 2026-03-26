@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">MultiLanguage Support App</string>
+
+    <string name="default_message">
+You clicked the button!
+</string>
+
+    <string name="clicked_message">
+You clicked the button!
+</string>
+
+    <string name="click_me">
+CLICK ME
+</string>
+
+</resources>

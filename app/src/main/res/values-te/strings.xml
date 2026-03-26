@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">బహుభాషా మద్దతు యాప్</string>
+
+    <string name="default_message">
+మీరు బటన్‌ను నొక్కారు
+</string>
+
+    <string name="clicked_message">
+మీరు బటన్‌ను నొక్కారు
+</string>
+
+    <string name="click_me">
+క్లిక్ చేయండి
+</string>
+
+</resources>
